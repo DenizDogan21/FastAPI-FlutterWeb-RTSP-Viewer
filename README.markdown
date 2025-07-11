@@ -64,8 +64,7 @@ cd mjpeg-stream-viewer
 ```
 mjpeg-stream-viewer/
 ├── backend/
-│   ├── main.py             # FastAPI backend to convert RTSP to MJPEG
-│   └── requirements.txt    # Python dependencies
+│   └── main.py             # FastAPI backend to convert RTSP to MJPEG
 ├── flutter_app/
 │   ├── lib/
 │   │   └── main.dart       # Flutter frontend to display MJPEG stream
